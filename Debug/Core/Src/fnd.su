@@ -1,0 +1,4 @@
+../Core/Src/fnd.c:21:6:seg_number_CA	16	static
+../Core/Src/fnd.c:32:6:seg_number_CC	16	static
+../Core/Src/fnd.c:44:6:seg_alph_CA	16	static
+../Core/Src/fnd.c:55:6:seg_alph_CC	16	static

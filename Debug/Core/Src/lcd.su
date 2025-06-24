@@ -1,0 +1,5 @@
+../Core/Src/lcd.c:15:6:lcdCommand	32	static
+../Core/Src/lcd.c:27:6:lcdData	32	static
+../Core/Src/lcd.c:39:6:i2cLcd_Init	8	static
+../Core/Src/lcd.c:55:6:lcdString	16	static
+../Core/Src/lcd.c:59:6:moveCursor	16	static

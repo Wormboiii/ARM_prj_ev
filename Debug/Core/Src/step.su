@@ -1,0 +1,6 @@
+../Core/Src/step.c:56:6:justTurn	8	static
+../Core/Src/step.c:83:6:fullStop	8	static
+../Core/Src/step.c:99:6:stepperSpeed	24	static
+../Core/Src/step.c:117:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/step.c:150:6:setMotorDirection	16	static
+../Core/Src/step.c:155:6:rotateDegrees	24	static

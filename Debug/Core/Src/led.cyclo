@@ -1,0 +1,7 @@
+../Core/Src/led.c:23:6:ledOn	2
+../Core/Src/led.c:29:6:ledOff	2
+../Core/Src/led.c:35:6:ledToggle	1
+../Core/Src/led.c:40:6:ledLS	3
+../Core/Src/led.c:56:6:ledRS	3
+../Core/Src/led.c:95:6:ledEven	1
+../Core/Src/led.c:98:6:ledOdd	1
